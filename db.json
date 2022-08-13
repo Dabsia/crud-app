@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "name": "Daniella Michael",
+      "email": "daniella@gmail.com",
+      "address": "Dubai",
+      "id": 1
+    },
+    {
+      "name": "Riwo Sellings",
+      "email": "riwo@gmail.com",
+      "address": "Germany",
+      "id": 3
+    },
+    {
+      "name": "Dabsia Johnson",
+      "email": "dave45@gmail.com",
+      "address": "France",
+      "id": 4
+    },
+    {
+      "name": "Melanie Ohumu",
+      "email": "melanie@gmail.com",
+      "address": "Japan",
+      "id": 5
+    },
+    {
+      "name": "Elizabeth Chinelo",
+      "email": "elizabeth@gmail.com",
+      "address": "Columbia",
+      "id": 6
+    },
+    {
+      "name": "Precious Felix",
+      "email": "precious@gmail.com",
+      "address": "Canada",
+      "id": 7
+    }
+  ]
+}

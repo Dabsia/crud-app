@@ -1,0 +1,58 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+    margin-top: 2rem;
+    border: 1px solid #dddddd;
+}
+
+td,
+th {
+    /* border: 1px solid #dddddd; */
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+    
+}
+thead{
+    border: 1px solid #dddddd;
+    color: #fff;
+    background-color: #121212;
+}
+.delBtn{
+    background-color: red;
+    color: #fff;
+    outline: none;
+    border: none;
+    padding: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.editBtn{
+    background-color: rgb(8, 197, 255);
+        color: #fff;
+        outline: none;
+        border: none;
+        padding: 5px 10px;
+        cursor: pointer;
+}
+.AddBtn{
+    background-color: rgb(24, 158, 75);
+    color: #fff;
+    outline: none;
+    border: none;
+    padding: 5px 10px;
+    display: block;
+    margin: auto;
+    position: absolute;
+    top: 10px;
+    left: 40%;
+    margin-top: 40px;
+    cursor: pointer;
+}
